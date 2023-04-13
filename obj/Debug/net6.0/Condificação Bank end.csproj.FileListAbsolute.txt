@@ -1,0 +1,15 @@
+C:\Curso\Condificação Bank end\bin\Debug\net6.0\Condificação Bank end.exe
+C:\Curso\Condificação Bank end\bin\Debug\net6.0\Condificação Bank end.deps.json
+C:\Curso\Condificação Bank end\bin\Debug\net6.0\Condificação Bank end.runtimeconfig.json
+C:\Curso\Condificação Bank end\bin\Debug\net6.0\Condificação Bank end.dll
+C:\Curso\Condificação Bank end\bin\Debug\net6.0\Condificação Bank end.pdb
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.csproj.AssemblyReference.cache
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.AssemblyInfoInputs.cache
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.AssemblyInfo.cs
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.csproj.CoreCompileInputs.cache
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.dll
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\refint\Condificação Bank end.dll
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.pdb
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.genruntimeconfig.cache
+C:\Curso\Condificação Bank end\obj\Debug\net6.0\ref\Condificação Bank end.dll
