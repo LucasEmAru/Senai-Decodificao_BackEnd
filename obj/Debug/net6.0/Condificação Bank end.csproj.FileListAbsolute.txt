@@ -13,3 +13,18 @@ C:\Curso\Condificação Bank end\obj\Debug\net6.0\refint\Condificação Bank end
 C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.pdb
 C:\Curso\Condificação Bank end\obj\Debug\net6.0\Condificação Bank end.genruntimeconfig.cache
 C:\Curso\Condificação Bank end\obj\Debug\net6.0\ref\Condificação Bank end.dll
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\Condificação Bank end.csproj.AssemblyReference.cache
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\Condificação Bank end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\Condificação Bank end.AssemblyInfoInputs.cache
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\Condificação Bank end.AssemblyInfo.cs
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\Condificação Bank end.csproj.CoreCompileInputs.cache
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\Condificação Bank end.dll
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\refint\Condificação Bank end.dll
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\Condificação Bank end.pdb
+C:\Curso\Senai-Decodificao_BackEnd\bin\Debug\net6.0\Condificação Bank end.exe
+C:\Curso\Senai-Decodificao_BackEnd\bin\Debug\net6.0\Condificação Bank end.deps.json
+C:\Curso\Senai-Decodificao_BackEnd\bin\Debug\net6.0\Condificação Bank end.runtimeconfig.json
+C:\Curso\Senai-Decodificao_BackEnd\bin\Debug\net6.0\Condificação Bank end.dll
+C:\Curso\Senai-Decodificao_BackEnd\bin\Debug\net6.0\Condificação Bank end.pdb
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\Condificação Bank end.genruntimeconfig.cache
+C:\Curso\Senai-Decodificao_BackEnd\obj\Debug\net6.0\ref\Condificação Bank end.dll

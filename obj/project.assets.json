@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso\\Condificação Bank end\\Condificação Bank end.csproj",
+      "projectUniqueName": "C:\\Curso\\Senai-Decodificao_BackEnd\\Condificação Bank end.csproj",
       "projectName": "Condificação Bank end",
-      "projectPath": "C:\\Curso\\Condificação Bank end\\Condificação Bank end.csproj",
+      "projectPath": "C:\\Curso\\Senai-Decodificao_BackEnd\\Condificação Bank end.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso\\Condificação Bank end\\obj\\",
+      "outputPath": "C:\\Curso\\Senai-Decodificao_BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
