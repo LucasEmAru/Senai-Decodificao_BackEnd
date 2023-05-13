@@ -11,7 +11,7 @@ namespace Condificação_Bank_end.Class
 
         public Endereco? Endereco { get; set; }
 
-       public abstract void PagarImposto(float rendimento);
+       public abstract double PagarImposto(float rendimento);
 
        public bool ValidarDatadeNascimento(DateTime dateNascimento){
         DateTime dataAtual = DateTime.Today;

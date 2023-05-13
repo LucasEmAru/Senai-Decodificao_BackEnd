@@ -10,7 +10,15 @@ namespace Condificação_Bank_end.Class
       public string? cpf { get; set; }
       public string? rg { get; set; }
       public DateTime dataNascimento { get; set; }
-      public override void PagarImposto(float rendimento){}
+      public override double PagarImposto(float rendimento){
+        if (rendimento <=1500){
+          return 0;
+        }else if(rendimento > 1500 && rendimento <= 5000){
+          return (rendimento/100)*3;
+        }else{
+          return (rendimento/100)*8;
+        }
+      }
 
     }   
 }
